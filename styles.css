@@ -1,0 +1,86 @@
+body {
+  color: lightslategrey;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 1.5em;
+  background-color: #c8e3d4;
+}
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3 {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+  font-weight: normal;
+}
+a {
+  color: #66bfbf;
+}
+p {
+  font-size: 1.3rem;
+  font-family: "merriweather", sans-serif;
+}
+
+.hello {
+  margin-top: 20px;
+}
+.profile {
+  margin-top: 30px;
+}
+.top-container {
+  background-color: #c8e3d4;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  background-color: #c8e3d4;
+}
+.bottom-container {
+  background-color: #c8e3d4;
+  font-size: 1.4rem;
+  padding: 10px;
+}
+.contact-me {
+  font-size: 1.2rem;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.chili-img {
+  float: right;
+  margin-left: 30px;
+}
+.code-skill-description {
+}
+.chili-skill-descrition {
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
